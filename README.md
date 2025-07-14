@@ -1,6 +1,4 @@
-# MCP Servers API Documentation
-
-A simple, no-authentication REST API for managing Model Context Protocol (MCP) servers. **No downloads, no API keys, just works.**
+# NANDA Index MCP Servers API Documentation
 
 ## Base URL
 ```
